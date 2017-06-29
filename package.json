@@ -1,0 +1,8 @@
+{
+  "name": "reveal-in-explorer",
+  "version": "1.0.0",
+  "main": "reveal-in-explorer.js",
+  "repository": "https://github.com/builden/reveal-in-explorer.git",
+  "author": "builden <billdeng@qq.com>",
+  "license": "MIT"
+}
